@@ -7,7 +7,7 @@
 .bgimage {
     height:100vh;
     width:200px;
-    background: url('images/heroin1.jpeg');
+    background: url('images/about.jpg');
     background-size:cover;
     position:relative;
 }
